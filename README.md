@@ -13,6 +13,15 @@ The following table compares the state-of-the-art sonar underwater datasets by a
 
 In addition, for readability, the sonar acronyms are SSS (Side-Scan Sonar), FLS (Forward-Looking Sonar), MSIS (Mechanical Scanning Imaging Sonar), and MBES (Multi-Beam Echo Sounder) represent the different types of sonar used in these datasets.
 
+<style>
+  table {
+    font-size: 12px;  /* Adjust this value to make the font smaller */
+  }
+  th, td {
+    padding: 4px;  /* Reduce padding to make the table more compact */
+  }
+</style>
+
 | Dataset                    | Sonar     | Data       | No Data | Object labels                        | Annotation         | Set-up   | Year | Paper |
 |----------------------------|-----------|------------|---------|--------------------------------------|--------------------|----------|------|------|
 | [Northern Adriatic Reefs](https://doi.org/10.5281/zenodo.4608083)    | SSS       | GeoTIFF    | 7       | Reefs                                | ✗                  | ✓        | 2010 | ✗ |
