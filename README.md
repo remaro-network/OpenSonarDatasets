@@ -6,7 +6,19 @@ Welcome to **OpenSonarDatasets**, a repository dedicated to consolidate open-sou
 The lack of consolidated and accessible sonar datasets makes research in underwater robotics challenging. This repository aims to bridge that gap by offering an organized collection of open-source sonar datasets with their link repository to help researchers interested in open-source sonar datasets start their projects efficiently.
 
 ### Original Dataset Collection
-This dataset comparison originates from the journal paper "Sonar-based DL in Underwater Robotics: Overview, Robustness, and Challenges," submitted to the IEEE Journal of Oceanic Engineering, which will soon be available. The initial datasets included here are part of this journal paper. However, please note that any future datasets contributed by the community will not be part of the original journal comparison, as the paper content remains fixed, while this repository will continue to evolve.
+This dataset comparison originates from the journal paper:
+
+> **M. Aubard, A. Madureira, L. Teixeira and J. Pinto**,  
+> *Sonar-Based Deep Learning in Underwater Robotics: Overview, Robustness, and Challenges*,  
+> *IEEE Journal of Oceanic Engineering*, 2025.  
+> [https://doi.org/10.1109/JOE.2025.3531933](https://doi.org/10.1109/JOE.2025.3531933)
+
+If this repository or the associated paper helps your research or project, **please consider citing our paper**.
+
+
+**⚠️ Note:**  
+While this repository will continue to evolve with new datasets contributed by the community, **these additions are not part of the original journal comparison**, as the paper content is fixed upon publication.
+
 
 ### Dataset Comparison Table
 The following table compares the state-of-the-art sonar underwater datasets by analyzing the type of sonar (Sonar), type of data (Data), number of data samples (No Data), objects labeled in the data (Object Labels), if the data is annotated, DL tasks (Annotation), if the data collection set up such as sonar frequency, altitude, etc. are described in the dataset or not (Set-up), and finally the year of the dataset publication (Year). The * symbol indicates that the dataset is not only limited to sonar but extended to other sensors such as optical cameras.
