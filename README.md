@@ -48,6 +48,7 @@ In addition, for readability, the sonar acronyms are SSS (Side-Scan Sonar), FLS 
 | [Cave Sonar](https://cirs.udg.edu/caves-dataset/)                 | MSIS *    | Rosbag     | 500 meters       | Cave Seabed                          | SLAM               | ✓        | 2017 | [Paper](https://journals.sagepub.com/doi/pdf/10.1177/0278364917732838) | 
 | [Aurora](https://ieee-dataport.org/open-access/aurora-multi-sensor-dataset-robotic-ocean-exploration)                     | MBES, SSS * | Raw      | MBES: 81km, SSS: 15h       | Seabed, Marine habitats             | SLAM               | ✓        | 2020 | [Paper](https://nora.nerc.ac.uk/id/eprint/532651/1/AURORA__A_multi_sensor_dataset_for_robotic_ocean_exploration.pdf) | 
 | [MBES-Slam](https://seaward.science/data/pos/)                  | MBES      | Rosbag     | 4 missions      | Seabed                               | SLAM               | ✓        | 2022 | [Paper](https://journals.sagepub.com/doi/full/10.1177/02783649211044749) |
+| [BenthiCat](https://github.com/CIRS-Girona/opti-acoustic-preprocessing-tools) | SSS* | Images/Tiles (XTF raw, mosaics, GeoTIFF DEMs) | ~950000 tiles (~37000 labeled) | 26 classes → 12 categories; segmentation | ✓ | ✓ | 2025 | [Paper](https://arxiv.org/abs/2510.04876) |
 
 
 
